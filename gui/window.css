@@ -1,0 +1,63 @@
+* {
+    font-size: 1.3rem;
+    -GtkDialog-content-area-spacing: 200;
+   	background-color: #121212;
+}
+
+*:selected {
+	background-color: rgba(0, 180, 255, 0.70);
+	color: white;
+}
+
+#windowbox {
+	background-color: rgba(255, 255, 255, 0.09);
+}
+
+#bottombox, #label1 {
+	background-color: rgba(255, 255, 255, 0);	
+}
+
+#bottomseparator1, #bottomseparator2 {
+	background-color: rgba(255, 255, 255, 0);
+}
+
+button {
+	background-color: rgba(255, 255, 255, 0.09);
+}
+
+button * {
+	background-color: rgba(255, 255, 255, 0.0);
+}
+
+#startbutton, #stopbutton {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+#startbutton {
+	background-color: rgba(0, 140, 255, 0.12);
+}
+
+#stopbutton {
+	background-color: rgba(255, 0, 0, 0.12);
+}
+
+#startbutton:hover {
+	background-color: rgba(0, 140, 255, 0.70);
+	color: white;
+}
+
+#stopbutton:hover {
+	background-color: rgba(255, 0, 0, 0.60);
+	color: white;
+}
+
+#startbutton label {
+	background-color: rgba(255,255,255,0);
+}
+
+#buttonbox {
+	background-color: rgba(255,255,255,0.07);
+}

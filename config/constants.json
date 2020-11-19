@@ -1,0 +1,5 @@
+{
+	"remind_delta_seconds": 300,
+	"sound_alert_file": "/usr/share/sounds/freedesktop/stereo/service-login.oga",
+	"sound_lock_file": "/usr/share/sounds/freedesktop/stereo/service-logout.oga"
+}
