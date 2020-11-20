@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Time's Up
-Keywords=egg;
-Exec=/home/roxen/MyScripts/Time\'sUp/teatime.py
-Path=/home/roxen/MyScripts/Time\'sUp/teatime/
-Icon=/home/roxen/MyScripts/Time\'sUp/sleep.svg
-Terminal=false
-Categories=Utility;GTK;
