@@ -1,11 +1,4 @@
-<div>
-  <h1 style="text-align: center; font-size: 45px; display: flex; align-items: center; justify-content: space-between">
-    <img src='icon.svg' style="margin-left: 5%" />
-    <span style="margin-right:0px">Time's Up</span>
-    <img src='icon.svg' style="transform: scaleX(-1); margin-right: 5%"/>
-  </h1>
-</div>
-
+# Time's Up
 
 **Time's Up** is an application developed to help computer users take care of their eyes. After a long time staring at their screens, computer users &ndash; who can be developers, analysts, youtubers, whoever &ndash; need to take a break and look somewhere else. Time's Up has been devised to remind and "force" users to take a break after a certain period of time. 
 
