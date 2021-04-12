@@ -2,7 +2,7 @@
 
 <p align="left">
  <a href="https://snapcraft.io/teatime"><img src="https://img.shields.io/badge/based%20on-Teatime-ff69b4"></a>
- <img alt="GitHub" src="https://img.shields.io/github/license/roxennnn/TimesUp">
+ <a href="https://github.com/roxennnn/TimesUp/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/roxennnn/TimesUp"></a>
 </p>
 
 **Time's Up** is an application developed to help computer users take care of their eyes. After a long time staring at their screens, computer users &ndash; who can be developers, analysts, youtubers, whoever &ndash; need to take a break and look somewhere else. Time's Up has been devised to remind and "force" users to take a break after a certain period of time. 
