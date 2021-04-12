@@ -1,5 +1,10 @@
 # Time's Up
 
+<p align="left">
+ <a href="https://snapcraft.io/teatime"><img src="https://img.shields.io/badge/based%20on-Teatime-ff69b4"></a>
+ <img alt="GitHub" src="https://img.shields.io/github/license/roxennnn/TimesUp">
+</p>
+
 **Time's Up** is an application developed to help computer users take care of their eyes. After a long time staring at their screens, computer users &ndash; who can be developers, analysts, youtubers, whoever &ndash; need to take a break and look somewhere else. Time's Up has been devised to remind and "force" users to take a break after a certain period of time. 
 
 Time's Up consists of a timer which, when it expires, displays a desktop notification to the user reminding her to take a break. After a pre-defined period of time (by default, it corresponds to 5 minutes) if the user have not locked the screen yet, the application will automatically lock the computer screen. 
@@ -44,6 +49,9 @@ In the following some ideas to improve Time's Up are listed.
 * Add theming and other customisation settings, like:
   * Set default starting timer
   * Activate or deactivate default timer on start
+
+## License
+[MIT](https://github.com/roxennnn/TimesUp/blob/master/LICENSE)
 
 ## Acknowledgements
 
